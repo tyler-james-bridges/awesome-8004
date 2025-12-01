@@ -55,6 +55,10 @@ Guides and resources to help you start building with ERC-8004.
 - [**Phala**](https://github.com/Phala-Network/erc-8004-tee-agent) - TEE agent implementation
 - [**Zpaynow**](https://github.com/zpaynow/8004) - Rust implementation
 
+### Search and Discovery 
+
+- [**Registry Brokers**](https://registry.hashgraphonline.com) - Find and discover ERC-8004 AI Agents across the internet. 
+
 ### Video Guides
 
 - [**Sparsity Demo Video**](https://www.youtube.com/watch?v=jqOZj399BLE) - Demonstration of trustless agents in action
