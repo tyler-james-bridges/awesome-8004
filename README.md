@@ -51,6 +51,7 @@ Guides and resources to help you start building with ERC-8004.
 
 ### Implementation Examples
 
+- [**ACK (Agent Consensus Kudos)**](https://github.com/tyler-james-bridges/ack-protocol) - Peer-driven reputation layer for AI agents on Abstract. Onchain kudos, MCP/A2A/OASF endpoints, x402 payments, and an npm SDK ([@ack-onchain/sdk](https://www.npmjs.com/package/@ack-onchain/sdk))
 - [**Chaos Chain**](https://github.com/ChaosChain/trustless-agents-erc-ri) - Trustless agents implementation
 - [**Phala**](https://github.com/Phala-Network/erc-8004-tee-agent) - TEE agent implementation
 - [**Zpaynow**](https://github.com/zpaynow/8004) - Rust implementation
